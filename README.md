@@ -1,0 +1,1 @@
+# Example-with-class-structure
